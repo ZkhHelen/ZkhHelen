@@ -12,15 +12,43 @@
 
 ---
 
-### 🛠 **Инструменты управления тестированием:**
+### 🛠 Инструменты управления тестированием:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"  width="25"/> <b>Jira</b> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="25"/> <b>YouTrack</b>  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7TT81PgW1ZySMt7nkINdy-6MQagErgf6KOw&s" width="25"/> <b>Redmine</b>  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="25"/> <b>Test IT</b>   &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://luna1.co/eb0187.png" width="25"/> <b>Qase</b> |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"  width="25"/> <b>Jira</b> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="25"/> <b>YouTrack</b>  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7TT81PgW1ZySMt7nkINdy-6MQagErgf6KOw&s" width="25"/> <b>Redmine</b>  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="25"/> <b>Test IT</b>   &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://luna1.co/eb0187.png" width="25"/> <b>Qase</b> 
+
+### 💻 Технический стек:
+
+> **🚀 Языки программирования:**
+![C++](https://img.shields.io)
+![Java](https://img.shields.io)
+![SQL](https://img.shields.io)
+
+> **🌐 Тестирование Web & API:**
+![Chrome DevTools](https://img.shields.io)
+![Postman](https://img.shields.io)
+![SoapUI](https://img.shields.io)
+
+> **📱 Тестирование Mobile & Proxy:**
+![Android Studio](https://img.shields.io)
+![Charles Proxy](https://img.shields.io)
+![Fiddler](https://img.shields.io)
+
+> **📊 Работа с данными:**
+![MySQL](https://img.shields.io)
+![DB2](https://img.shields.io)
+
+> **🛠 Инструменты разработки & VCS:**
+![Git](https://img.shields.io)
+![GitHub](https://img.shields.io)
+![Bash](https://img.shields.io)
+
+> **🖥 IDE:**
+![VS Code](https://img.shields.io)
+![IntelliJ IDEA](https://img.shields.io)
+![Visual Studio](https://img.shields.io)
+![Eclipse](https://img.shields.io)
 
 
-### Languages and tools
-![C++](https://img.shields.io/badge/-C++-0c1425?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-0c1425?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Java](https://img.shields.io/badge/-Java-0c1425?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 ### 🤝 Социальные сети:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zkh_helen)
