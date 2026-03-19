@@ -2,8 +2,6 @@
 
 ## Я начинающий тестировщик и инженер-программист
 
-Latest video
-
 ### Languages and tools
 ![C++](https://img.shields.io/badge/-C++-0c1425?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-0c1425?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -12,5 +10,7 @@ Latest video
 ### Follow me 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zkh_helen)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/zkh_helen)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/zkhhelen)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=&logoColor=007BB6)](https://www.linkedin.com/in/zkhhelen)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/zkh_helen)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZkhHelen&&show_icons=true&theme=tokyonight)](https://github.com/ZkhHelen/github-readme-stats)
