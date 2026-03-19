@@ -68,6 +68,7 @@
 ### 🚀 Languages
 ![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql&logoColor=336791)
 
 ### 🌐 Web & API Testing
@@ -94,6 +95,16 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellijidea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?logo=visualstudio&logoColor=5C2D91)
 ![Eclipse](https://img.shields.io/badge/Eclipse-black?logo=eclipseide&logoColor=2C2255)
+
+---
+
+### 🎓 Certificates
+
+[![Software Testing](https://img.shields.io/badge/Software%20Testing-Basic-black?style=for-the-badge&logoColor=white)](https://stepik.org/cert/3073742)  
+Software Testing from Scratch: Theory + Practice (Basic) - *with distinction*
+
+[![Python Generation](https://img.shields.io/badge/Python%20Generation-Beginner-black?style=for-the-badge&logo=python&logoColor=3776AB)](https://stepik.org/cert/1906322)  
+“Python Generation”: Beginner Course - *with distinction*
 
 ---
 
