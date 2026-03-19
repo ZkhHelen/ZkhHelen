@@ -1,6 +1,6 @@
 ![Header](https://github.com/ZkhHelen/ZkhHelen/blob/main/assets/ChatGPT%20Image%2019%20%D0%BC%D0%B0%D1%80.%202026%20%D0%B3.%2C%2009_08_4222.png)
 
-## Я начинающий тестировщик и инженер-программист. 
+## Я начинающий тестировщик и инженер-программист
 
 Latest video
 
@@ -9,4 +9,8 @@ Latest video
 ![SQL](https://img.shields.io/badge/-SQL-0c1425?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Java](https://img.shields.io/badge/-Java-0c1425?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
-Follow me 
+### Follow me 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zkh_helen)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/zkh_helen)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/zkhhelen)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/zkh_helen)
